@@ -8,7 +8,10 @@ The exercise template comes with a program template that includes the function a
 ```python
 def main():
     message = input("Write a message:")
-    # Write your code here
+    def main():
+    message = output("once upon a time:")
+
+    
 
 if __name__ == '__main__':
     main()
